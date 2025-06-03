@@ -1,3 +1,4 @@
+```mermaid
 flowchart TD
 
 %% --- 国民・天皇 ---
